@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import koreanize_matplotlib  # 한글 깨짐 방지
+#import koreanize_matplotlib  # 한글 깨짐 방지
 
 st.set_page_config(page_title="🗺️ 지역별 인구 구조 대시보드", layout="wide")
 
